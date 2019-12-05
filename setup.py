@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='str_dict',
+    name='test_tool',
     version='0.0.1',
     keywords='str to dict',
     description='a str to dict tool',
