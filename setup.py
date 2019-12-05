@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dict_tool',
-    version='0.0.1',
+    version='0.0.2',
     keywords='str to dict',
     description='a str to dict tool',
     license='MIT License',
