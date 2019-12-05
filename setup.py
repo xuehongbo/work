@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='dict_tool',
-    version='0.0.2',
+    name='dict_tool_str',
+    version='0.0.1',
     keywords='str to dict',
     description='a str to dict tool',
     license='MIT License',

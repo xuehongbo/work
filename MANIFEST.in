@@ -1,4 +1,4 @@
 include LICENSE
 
 # Tests
-recursive-include caafinder *.py
+recursive-include dict_tool *.py
