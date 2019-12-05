@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4687b187-aa47-4b69-9719-ff6d9e7d09fe" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../one_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../str_dict.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
@@ -11,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/../Keyword_driver/Logs/2019-12-04.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Keyword_driver/Logs/2019-12-04.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Keyword_driver/key_word_data/Test_Backstage_Word.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Keyword_driver/key_word_data/Test_Backstage_Word.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reptile_test/test_script/data_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Reptile_test/test_script/data_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caafinder/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/caafinder/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_file.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/caafinder/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/caafinder/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -39,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/caafinder/__init__.py" />
+        <option value="$PROJECT_DIR$/caafinder/setup.py" />
       </list>
     </option>
   </component>
@@ -147,6 +157,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caafinder/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
