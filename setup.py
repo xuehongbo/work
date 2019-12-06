@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='dict_tool_str',
+    name='dict_str',
     version='0.0.1',
-    keywords='str to dict',
-    description='a str to dict tool',
+    keywords='str to dict_str',
+    description='a str to dict_str tool',
     license='MIT License',
     url='https://github.com/xuehongbo/work',
     author='HongBo Xue',
